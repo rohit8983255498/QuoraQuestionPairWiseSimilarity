@@ -1,6 +1,6 @@
 # Case Study: Quora Question Pair Similarity
-	Quora is the Question - Answer website. It is the platform where people share and gain knowledge about anything. 
-	People ask question and also connect with people who gives unique insights and quality answers.
+	Quora is the Question - Answer website. It is the platform where people share and gain knowledge 
+	about anything. People ask question and also connect with people who gives unique insights and quality answers.
 	
 ## Bussiness Problem:
 	1) Why we are solving this problem?
