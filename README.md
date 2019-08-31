@@ -58,6 +58,10 @@
 		- Violin plot
 		- Histogram
 	3)Pre-processing of Text:
+		- expanded contraction
+		- removing html tags
+		- removing punctuation
+		- removing stopwords
 	4)Advanced Feature extraction.
 		- Classical features
 		- fuzzy features
