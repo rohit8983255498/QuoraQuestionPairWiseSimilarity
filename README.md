@@ -1,15 +1,18 @@
 # Case Study: Quora Question Pair Similarity
 	Quora is the Question - Answer website. It is the platform where people share and gain knowledge 
-	about anything. People ask question and also connect with people who gives unique insights and quality answers.
+	about anything. People ask question and also connect with people who gives unique insights and 
+	quality answers.
 	
 ## Bussiness Problem:
 	1) Why we are solving this problem?
-		Over millions of people visit on Quora every month, they ask similar worded question or question of similar meaning,
-		and also try find multiple version of answers for same intented question.
-		This is a bad user experience for both writer & seekers, as the answers get fragmented across different versions of the same question.
-		So our main purpose is to provide better experience to active users. To achieve this objective we have to identify the new question 
-		asked on Quora are duplicate of previously answered question or not. If they are duplicate then merge that questions which have 
-		same intent but differently worded. By doing this we can reduce efforts of writer.
+		Over millions of people visit on Quora every month, they ask similar worded question 
+		or question of similar meaning, and also try find multiple version of answers for same 
+		intented question. This is a bad user experience for both writer & seekers, 
+		as the answers get fragmented across different versions of the same question.
+		So our main purpose is to provide better experience to active users. To achieve this objective 
+		we have to identify the new question asked on Quora are duplicate of previously answered 
+		question or not. If they are duplicate then merge that questions which have same intent but 
+		differently worded. By doing this we can reduce efforts of writer.
 		
 ## Bussiness constraints:
 	  - The cost of missclassification will be very high (No False Positive value).
