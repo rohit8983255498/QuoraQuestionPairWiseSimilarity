@@ -74,3 +74,10 @@
 	7)Building ML models.
 	8)Featurizing tfidf W2V.
 	9)Building ML models.
+
+## Referred Source:
+	- https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
+	- https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
+	- https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+	- https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
+	
